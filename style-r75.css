@@ -1,0 +1,862 @@
+@media screen and (max-width: 1475px){
+    .coloumnFLFT{
+        width: 70%;
+        flex-direction: row;
+        gap: 40px;
+    }
+
+    .coloumnLFTF{
+        width: 100%;
+    }
+
+    .coloumnLFT{
+        width: 35%;
+    }
+
+    .allLF{
+        gap: 80px;
+    }
+}
+
+
+@media screen and (max-width: 1330px){
+    .PrincipalArgument{
+        flex-direction: column;
+    }
+
+    .txtFAP{
+        width: 100%;
+    }
+
+    .imgFAP{
+        max-width: 100%;
+    }
+
+    .updateIMGFAP{
+        padding-bottom: 10px;
+    }
+
+    .styleIMGFP{
+        max-width: 100%;
+    }
+
+    .SO{
+        width: 150px;
+        font-size: 14px;
+    }
+
+    .OA{
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    #OA2{
+        padding-top: 20px;
+    }
+
+    .DTIO{
+        flex-direction: row;
+        width: 100%;
+        gap: 10px;
+    }
+
+    .SODTIO{
+        height: 25px;
+    }
+
+    .flDTIO{
+        width: 45%;
+    }
+
+    .aIMGDTIO{
+        width: 45%;
+    }
+
+    .classHDTIO{
+        font-size: 20px;
+    }
+
+    .TN{
+        width: 65%;
+    }
+
+    .textATN{
+        font-size: 16px;
+    }
+}
+
+
+@media screen and (max-width: 1150px) {
+    .textFL2{
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 1200px){
+    .menuText{
+        font-size: 15px;
+    }
+
+    .logoH{
+        font-size: 45px;
+    }
+}
+
+
+@media screen and (max-width: 1080px){
+    .LH{
+        width: 30%;
+    }
+
+    .newsFP{
+        width: 42%;
+    }
+
+    .DTIO{
+        display: flex;
+        flex-direction: column;
+        height: auto;
+        width: 45%;
+    }
+
+    .OA{
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        height: auto;
+        gap: 7px;
+    }
+
+    .SODTIO{
+        width: 130px;
+        font-size: 13px;
+    }
+
+    .classHDTIO{
+        font-size: 14px;
+        width: 100%;
+    }
+
+    .flDTIO{
+        width: 100%;
+    }
+    .aIMGDTIO{
+        width: 100%;
+    }
+
+    .specificalN{
+        flex-wrap: wrap;
+    }
+
+    .firstSN{
+        width: 48%;
+    }
+
+    .fbpairRPV{
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        height: auto;
+        gap: 1%;
+        width: 35%;
+    }
+
+    .fbpairRPV{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 1079px){
+    html,body{
+        width: 100%;
+        height: 100%;
+        margin:0;
+        padding:0;
+        overflow-x:hidden;
+    }
+
+    .alignC{
+        width: 60%;
+    }
+
+    .alignCS{
+        width: 60%;
+    }
+
+    .aimgPV{
+        width: 40%;
+    }
+
+    .imgPV{
+        max-width: 80%;
+    }
+
+    .orderCRPV{
+        width: 70%;
+    }
+
+    .SORPV{
+        width: 135px;
+        font-size: 13px;
+    }
+
+    .PV{
+        flex-direction: column;
+        width: 95%;
+        gap: 10%;
+        height: 875px;
+    }
+
+    .firstIPV{
+        width: 100%;
+    }
+
+    .txtPA{
+        display: block;
+    }
+    .fbpairRPV{
+        flex-direction: row;
+        width: 100%;
+        gap: 3%;
+        align-items: center;
+    }
+    .elementRPV{
+        width: 45%;
+        align-items: center;
+        height: 100%;
+        border-bottom: 1px solid lightgray;
+    }
+
+    .elementRPV2{
+        width: 45%;
+        align-items: center;
+        height: 100%;
+        border-bottom: 1px solid lightgray;
+        padding-top: 0;
+    }
+
+    .rightPV{
+        width: 100%;
+    }
+
+    .subPVFB{
+        width: 120px;
+        font-size: 12px;
+    }
+    .otherNC{
+        font-size: 16px;
+    }
+
+    .fbOA0{
+        flex-direction: column;
+        width: 45%;
+    }
+
+    .descriptionAO{
+        width: 100%;
+    }
+
+    .coloumnOA {
+        width: 100%;
+    }
+
+    .txtCOAS{
+        padding-top: 15px;
+    }
+
+    .otherArgumentO{
+        gap: 5%;
+    }
+
+    .sTN2{
+        height: 30px;
+    }
+
+    .flex-title{
+        display:none;
+    }
+
+    .barraOpzioni{
+        display: none;
+    }
+
+    .textFL2{
+        display: none;
+    }
+
+    .textFL1{
+        display: none;
+    }
+
+    .coloumnFLFT{
+        width: 30%;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .coloumnFLFT2{
+        width: 30%;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .allLF{
+        align-items: normal;
+        padding-bottom: 50px;
+        gap: 200px;
+        height: auto;
+    }
+
+    .coloumnLFT{
+        width: 100%;
+        height: auto;
+    }
+
+    .spaceFT{
+        width: 15%;
+        display: block;
+    }
+
+    .logoH{
+        font-size: 4vw;
+    }
+
+    .menuText{
+        display: none;
+    }
+
+    .buttonHighMenu{
+        display: none;
+    }
+
+    .saerchIconA{
+        display: block;
+        margin-left: 15%;
+    }
+
+    .logoH{
+        display: block;
+    }
+
+    .borderDSN{
+        width: 100%;
+        border-bottom: 1px solid lightgray;
+    }
+
+    .spaceEND{
+        height: 90px;
+        width: 100%;
+        position: fixed;
+        background: #f5f5f5;
+        border-top: 1px solid #ccc;
+        bottom: 0;
+        display: block;
+        z-index: 0;
+    }
+
+    .tdc{
+        padding-bottom: 130px;
+    }
+
+    .spaceTitle{
+        height: 110px;
+    }
+
+    .spaceFPTN{
+        height: 250px;
+    }
+
+    .footerSpace{
+        height: 60px;
+    }
+
+    .seachbar{
+        width: 83%;
+    }
+
+    .blogoH{
+        width: 54%;
+    }
+
+    .spaceTR{
+        width: 9.3%;
+    }
+
+    .spaceTL{
+        width: 0;
+    }
+
+    .logoH{
+        font-size: 45px;
+    }
+
+    .otherPVFB{
+        width: 23%;
+    }
+
+    .finalBorder{
+        display: block;
+        border-bottom: 1px solid lightgray;
+    }
+}
+
+@media screen and (max-width: 995px){
+    .pr{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 830px){
+    html,body{
+        width: 100%;
+        height: 100%;
+        margin:0;
+        padding:0;
+        overflow-x:hidden;
+    }
+
+    .newsFB{
+        flex-direction: column;
+        width: 100%;
+        height: auto;
+        gap: 80px;
+    }
+
+    .newsFP{
+        width: 100%;
+    }
+
+    .PrincipalArgument{
+        flex-direction: row;
+    }
+
+    .txtFAP{
+        width: 50%;
+    }
+
+    .updateIMGFAP{
+        width: 50%;
+    }
+
+    .DTIO{
+        flex-direction: row;
+    }
+
+    .imgADTIO{
+        width: 70%;
+    }
+
+    .OA{
+        gap: 20px;
+    }
+
+    .pr{
+        display: block;
+    }
+
+    .DTIO{
+        gap: 1%;
+    }
+
+    .titlePS{
+        border-bottom: none;
+    }
+
+    .borderPS{
+        display: block;
+        border-bottom: 3px solid #D84315;
+    }
+
+    .boxONW{
+        padding-top: 15px;
+        width: 97%;
+    }
+
+    .LH{
+        width: 99%;
+        padding-left: 10px;
+    }
+
+    .lastB{
+        border-bottom: none;
+    }
+
+    .SUPEMAILB{
+        height: 150px;
+        width: 97%;
+    }
+
+    .TN{
+        width: 97%;
+    }
+
+    .fbIMGFP{
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
+        height: auto;
+        width: 100%;
+    }
+
+    .imgFP{
+        width: 75%;
+    }
+
+    .spaceFPTN{
+        height: 200px;
+    }
+
+    .spaceSN{
+        height: 200px;
+    }
+
+    .alignCR{
+        flex-direction: column;
+    }
+
+    .imgFIPV{
+        padding-left: 2%;
+    }
+
+    .alignC{
+        width: 95%;
+    }
+
+    .buttonOOTHERPV{
+        margin-top: 50px;
+    }
+
+    .openPVFB.open{
+        padding-top: 50px;
+        padding-left: 2%;
+    }
+
+    .imgPVS{
+        max-width: 100%;
+    }
+
+    .aimgPV{
+        width: 85%;
+        padding-left: 3%;
+    }
+
+    .imgPV{
+        height: auto;
+    }
+
+    .alignCS{
+        width: 100%;
+    }
+
+    .otherArgumentO{
+        flex-direction: column;
+    }
+
+    .fbOA0{
+        width: 100%;
+    }
+
+    .imgOA0{
+        width: 100%;
+    }
+
+    .otherPVFB{
+        width: 45%;
+    }
+
+    .otherPVFBOA{
+        width: 100%;
+    }
+
+    .imgSOA0{
+        max-width: 590px;
+        padding-left: 3%;
+    }
+
+    .allLF{
+        flex-direction: column;
+        gap: 0;
+    }
+
+    .coloumnFLFT{
+        width: 50%;
+    }
+
+    .coloumnFLFT2{
+        width: 50%;
+    }
+
+    .tdc{
+        flex-direction: column;
+        height: auto;
+    }
+
+    .spaceTitle{
+        height: 20px;
+    }
+
+    .alignCUP{
+        padding-top: 10%;
+    }
+
+    .seachbar{
+        width: 75%;
+    }
+
+    .buttonW{
+        max-width: 13%;
+    }
+
+    .subPVFB {
+        width: 175px;
+        font-size: 15px;
+    }
+
+    .subCOA{
+        height: 100%;
+    }
+
+
+    .otherArgumentO{
+        gap: 0;
+    }
+
+    .fbOA0{
+        gap: 0;
+        padding-top: 10px;
+    }
+
+    .coloumnOA{
+        gap: 0;
+    }
+
+    .otherArgument{
+        width: 97%;
+    }
+
+}
+
+@media screen and (max-width: 780px){
+    .scrollIMG{
+        width: 450px;
+    }
+
+    .blogoH{
+        width: 70%;
+    }
+
+    .spaceTR{
+        width: 0;
+    }
+
+    .saerchIconA{
+        margin-left: 5%;
+    }
+
+    .end{
+        width: 70px;
+    }
+
+}
+
+@media screen and (max-width: 640px){
+    .PrincipalArgument{
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .txtFAP{
+        width: 97%;
+    }
+
+    .PromotionsSpecials{
+        width: 96%;
+    }
+
+    .updateIMGFAP{
+        width: 100%;
+    }
+
+    .textTFAP{
+        font-size: 1.9em;
+    }
+
+    .OA{
+        flex-direction: column;
+    }
+
+    .DTIO{
+        width: 100%;
+        gap: 4%;
+    }
+
+    .aIMGDTIO{
+        width: 33%;
+    }
+
+    .flDTIO{
+        width: 67%;
+    }
+
+    .imgADTIO{
+        width: 100%;
+    }
+
+    .classHDTIO{
+        font-size: 19px;
+    }
+
+    .LH{
+        padding-left: 30px;
+        width: 90%;
+    }
+
+    .imgFP{
+        width: 40%;
+    }
+
+    .flexTN{
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .flexTNT{
+        width: 97%;
+        padding-left: 2%;
+        padding-top: 20px;
+    }
+
+    .firstSN{
+        width: 100%;
+    }
+
+    .specificalN{
+        flex-direction: column;
+        flex-wrap: nowrap;
+    }
+
+    .fbOA0{
+        padding-left: 3%;
+        width: 97%;
+    }
+
+    .otherNC{
+        padding-top: 1%;
+    }
+
+    .fbpairRPV{
+        flex-direction: column;
+    }
+
+    .elementRPV{
+        padding-left: 3%;
+        width: 97%;
+    }
+
+    .elementRPV2{
+        padding-left: 3%;
+        width: 97%;
+    }
+
+    .PV{
+        height: 1100px;
+    }
+
+    .aimgPV{
+        width: 97%;
+    }
+
+    .imgPV{
+        height: 175%;
+        max-width: 97%;
+    }
+
+    .imgSOA0{
+        max-width: 94%;
+    }
+
+    .imgFIPV{
+        max-width: 97%;
+    }
+
+    .imgFAP{
+        max-width: 97%;
+    }
+
+    .firstSN{
+        padding-left: 3%;
+        width: 90%;
+    }
+
+    .alignCUP{
+        padding-left: 3%;
+        padding-top: 3%;
+    }
+
+    .scrollIMG{
+        width: 350px;
+    }
+
+    .fbscrollIMG{
+        display: flex;
+        width: 83%;
+        justify-content: center;
+    }
+
+    .fbcscrollIMG{
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        width: 100%;
+    }
+
+    .txtLFT{
+        display: none;
+    }
+
+    .coloumnFLFT{
+        height: auto;
+    }
+
+    #cLFT{
+        margin-top: 0;
+    }
+
+    .coloumnFLFT{
+        width: 100%;
+    }
+
+    .coloumnFLFT2{
+        width: 100%;
+    }
+
+    .tdc{
+        gap: 35px;
+    }
+
+    .logoH{
+        font-size: 7vw;
+    }
+
+    .imgNN{
+        max-width: 11.5%;
+    }
+
+    .textATN{
+        font-size: 15px;
+    }
+
+    .alignCR{
+        width: 97%;
+    }
+}
+
+@media screen and (max-width: 325px){
+    .sidebar{
+        left: -250%;
+    }
+
+    .sidebar2{
+        right: -250%;
+    }
+}
